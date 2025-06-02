@@ -18,3 +18,5 @@ actualizar consola con
 source ~/.zshrc
 
 sudo apt install lolcat
+
+sudo gem install lolcat
