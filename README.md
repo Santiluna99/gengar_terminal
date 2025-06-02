@@ -17,3 +17,4 @@ zsh
 actualizar consola con 
 source ~/.zshrc
 
+sudo apt install lolcat
