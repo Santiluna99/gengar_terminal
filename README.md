@@ -8,3 +8,9 @@ cat /home/santi/gengar.txt | lolcat
 date | lolcat
 
 echo
+
+comprobar en que esta ejecutando bash con
+echo $0
+si devuelve bash tirara error si devuelve zsh esta bien
+para cambiar ejecutar
+zsh
